@@ -1,7 +1,4 @@
 # Overleaf Electron Web App
-
----
-
 Builds an Electron native application for the Overleaf web app.
 
 ## Build
